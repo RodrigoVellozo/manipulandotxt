@@ -1,0 +1,5 @@
+08/01/2018 15:34:22 - recarga #11348960 status #ativa
+08/01/2018 15:36:04 - recarga #11348961 status #pendente
+08/01/2018 15:36:33 - recarga #11348962 status #ativa
+08/01/2018 15:39:22 - recarga #11348963 status #cancelada
+2016-08-15 00:00:00 - recarga #20161365 status #pendente
